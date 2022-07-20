@@ -5,28 +5,6 @@
 
 </div>
 
-## Description
-Official PyTorch implementation of the paper [**"TEMOS: Generating diverse human motions from textual descriptions"**](http://arxiv.org/abs/2204.14109).
-
-Please visit our [**webpage**](https://mathis.petrovich.fr/temos/) for more details.
-
-![teaser_light](visuals/teaser_white.png#gh-light-mode-only)![teaser_dark](visuals/teaser_black.png#gh-dark-mode-only)
-
-
-### Bibtex
-If you find this code useful in your research, please cite:
-
-```
-@inproceedings{petrovich22temos,
-  title     = {{TEMOS}: Generating diverse human motions from textual descriptions},
-  author    = {Petrovich, Mathis and Black, Michael J. and Varol, G{\"u}l},
-  booktitle = {European Conference on Computer Vision ({ECCV})},
-  year      = {2022}
-}
-```
-
-You can also put a star :star:, if the code is useful to you.
-
 
 ## Installation :construction_worker:
 ### 1. Create conda environment
